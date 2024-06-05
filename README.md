@@ -61,5 +61,5 @@ Backend: The backend runs on http://localhost:80 and serves API requests from th
 
 ## Outro
 
-Thank you for checking out our Rick and Morty API App! I hope you find it useful and enjoyable. Happy coding!
+Thank you for checking out my Rick and Morty API App! I hope you find it useful and enjoyable. Happy coding!
 
